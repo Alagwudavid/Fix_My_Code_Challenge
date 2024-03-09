@@ -4,3 +4,4 @@ Fix-my-code-0/0x00-challenge
 + 0-fizzbuzz.py
 + README.md
 + 1-print_square.js
++ 2-sort.rb
